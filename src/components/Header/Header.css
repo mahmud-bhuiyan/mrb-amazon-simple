@@ -12,3 +12,7 @@
   margin-right: 30px;
   color: #ffffff;
 }
+
+.links a:hover {
+  color: #ffa500;
+}
